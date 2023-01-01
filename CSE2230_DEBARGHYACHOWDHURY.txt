@@ -1,0 +1,9 @@
+Name of the student : DEBARGHYA CHOWDHURY 
+Class Roll of the student : 30 
+Stream of the student : CSE 
+Your Student ID is : CSE2230
+Marks obtained in Python Programming is : 100 
+Marks obtained in Physics is : 90 
+
+You have got 95.0% in total.
+Outstanding:Grade=A [You have passed the exam].
